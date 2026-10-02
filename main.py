@@ -14,7 +14,7 @@ while True:
     y = random.randint(400, 600)
     
     #DURATION
-    duration = random.randint(3, 9)
+    duration = random.randint(3, 13)
 
     webbrowser.open(url)
     time.sleep(int(duration))
