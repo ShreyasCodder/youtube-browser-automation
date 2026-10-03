@@ -6,3 +6,5 @@ pyperclip==1.11.0
 PyRect==0.2.0
 PyScreeze==1.0.1
 pytweening==1.2.0
+colorama==0.4.6
+pyfiglet==0.9.0
